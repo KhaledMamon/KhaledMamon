@@ -1,6 +1,6 @@
 <!-- Profile README for KhaledMamon -->
 <div align="center">
-  <img src="./Khaled - Flutter.png" alt="Khaled Gamal Mamon — Flutter Developer" width="100%" />
+  <img src="./Khaled-Flutter.png" alt="Khaled Gamal Mamon — Flutter Developer" width="100%" />
 
   <p>
     <a href="https://github.com/KhaledMamon">
@@ -30,9 +30,9 @@ I work with Flutter and Dart to build cross-platform apps, integrate REST APIs, 
 - 🤝 Team collaboration, Git, and GitHub
 
 ## 🧰 Tech Stack
-
+<!--  firebase, |  Firebase,-->
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=flutter,dart,firebase,sqlite,git,github,vscode,androidstudio" alt="Flutter, Dart, Firebase, SQLite, Git, GitHub, VS Code, Android Studio" />
+  <img src="https://skillicons.dev/icons?i=flutter,dart,sqlite,git,github,vscode,androidstudio" alt="Flutter, Dart, SQLite, Git, GitHub, VS Code, Android Studio" />
 </p>
 
 <p align="center">
