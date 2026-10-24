@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-labelledby="title desc">
+  <title id="title">Khaled Gamal Mamon — Flutter Developer</title>
+  <desc id="desc">Animated dark developer banner with purple and cyan gradients.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#080B16"/>
+      <stop offset="55%" stop-color="#111827"/>
+      <stop offset="100%" stop-color="#17102D"/>
+    </linearGradient>
+    <linearGradient id="glow" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#7C3AED"/>
+      <stop offset="100%" stop-color="#22D3EE"/>
+    </linearGradient>
+    <filter id="blur"><feGaussianBlur stdDeviation="24"/></filter>
+    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse">
+      <path d="M32 0H0V32" fill="none" stroke="#94A3B8" stroke-opacity=".10" stroke-width="1"/>
+    </pattern>
+  </defs>
+  <rect width="1200" height="300" rx="24" fill="url(#bg)"/>
+  <rect width="1200" height="300" rx="24" fill="url(#grid)"/>
+  <circle cx="190" cy="65" r="92" fill="#7C3AED" opacity=".32" filter="url(#blur)">
+    <animate attributeName="cx" values="190;270;190" dur="8s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="1030" cy="245" r="110" fill="#06B6D4" opacity=".22" filter="url(#blur)">
+    <animate attributeName="cy" values="245;190;245" dur="7s" repeatCount="indefinite"/>
+  </circle>
+  <path d="M780 0 L650 300 M870 0 L740 300 M960 0 L830 300" stroke="url(#glow)" stroke-opacity=".22" stroke-width="2"/>
+  <rect x="64" y="58" width="7" height="180" rx="3.5" fill="url(#glow)"/>
+  <text x="98" y="118" fill="#A5B4FC" font-family="Segoe UI, Arial, sans-serif" font-size="20" letter-spacing="5">HELLO, I'M</text>
+  <text x="95" y="174" fill="#F8FAFC" font-family="Segoe UI, Arial, sans-serif" font-size="43" font-weight="700">Khaled Gamal Mamon</text>
+  <text x="98" y="215" fill="#CBD5E1" font-family="Segoe UI, Arial, sans-serif" font-size="24">Flutter Developer</text>
+  <g transform="translate(950 95)" fill="none" stroke="url(#glow)" stroke-width="5" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M0 34 L-30 62 L0 90"/>
+    <path d="M48 34 L78 62 L48 90"/>
+    <path d="M37 20 L11 104"/>
+    <animateTransform attributeName="transform" type="translate" values="950 95;950 88;950 95" dur="4s" repeatCount="indefinite" additive="sum"/>
+  </g>
+  <text x="98" y="264" fill="#94A3B8" font-family="Consolas, monospace" font-size="14">Flutter · Dart · Cubit/BLoC · REST APIs</text>
+  <rect x="1" y="1" width="1198" height="298" rx="23" fill="none" stroke="#64748B" stroke-opacity=".28"/>
+</svg>
