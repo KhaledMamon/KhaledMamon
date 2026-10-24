@@ -1,6 +1,6 @@
 <!-- Profile README for KhaledMamon -->
 <div align="center">
-  <img src="./profile-header.svg" alt="Khaled Gamal Mamon — Flutter Developer" width="100%" />
+  <img src="./Khaled - Flutter.png" alt="Khaled Gamal Mamon — Flutter Developer" width="100%" />
 
   <p>
     <a href="https://github.com/KhaledMamon">
