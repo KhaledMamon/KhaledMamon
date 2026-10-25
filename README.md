@@ -1,6 +1,6 @@
 <!-- Profile README for KhaledMamon -->
 <div align="center">
-  <img src="./Khaled-Flutter.png" alt="Khaled Gamal Mamon — Flutter Developer" width="100%" />
+  <img src="./GitHub Cover 2.png" alt="Khaled Gamal Mamon — Flutter Developer" width="100%" />
 
   <p>
     <a href="https://github.com/KhaledMamon">
@@ -17,11 +17,20 @@
 
 ---
 
-## 👋 Hi, I'm Khaled Gamal Mamon
+# 👋 Hi, I'm Khaled Gamal Mamon
 
-**Flutter Developer** focused on building clean, responsive, and user-friendly mobile applications.
+**Flutter Developer** with 1+ year of hands-on experience building cross-platform mobile apps through team-based projects, from feature development to REST API integration. I care about clean code, responsive UI, and apps that feel smooth to use.
 
-I work with Flutter and Dart to build cross-platform apps, integrate REST APIs, and manage application state. I enjoy collaborating with teams, turning ideas into practical products, and continuously improving my development skills.
+### What I've built:
+- Gang-Store – e-commerce app (6-member team): Home and Product Details screens, with REST API integration using MVVM, Cubit, and Dio.
+- Brief Up – news app: led a 3-member team; localization (Arabic/English), light/dark themes, and API integration.
+- WorkY – freelance marketplace app: led a 4-member team and connected the main app features through REST APIs.
+
+### Beyond code:
+- Completed a 120-hour Flutter training program at CREATIVA Innovation Hub, Mansoura (ITIDA–TIEC).
+- At MEGA Team, Mansoura University, coordinated the RedDev event across 5 departments and wrote technical articles and podcast scripts.
+
+Final-year Computer Science student at Mansoura University, looking for a Flutter Internship or Junior Flutter Developer role.
 
 - 📱 Mobile development with **Flutter & Dart**
 - 🔌 API integration with **REST APIs and Dio**
